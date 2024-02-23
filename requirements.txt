@@ -1,0 +1,17 @@
+opencv-python
+opencv-contrib-python   # for Tracker
+numpy       # for color-detection
+Pillow      # for color-detection, parking-space-counter
+mediapipe   # for Breadcrumbsface-anonymizer, golf_motion_coach
+pytesseract # OCR
+pyzbar      # QRCode
+pafy        # youtube
+youtube-dl  # youtube
+# yt-dlp      # youtube (<->youtube-dl)
+imutils
+# winsound	# for windows
+deepface
+scikit-learn	# parking-space-counter
+pandas          # parking-space-counter
+scikit-image    # parking-space-counter
+matplotlib      # parking-space-counter
